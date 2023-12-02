@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
+header {
+}
+
+.heading-title {
+    color: #ffffff;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    padding-right: 255px;
+    padding-left: 1000px;
+    padding-top: 250px;
+}
+
+.heading-description {
+    color: #ffffff;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 40px;
+    padding-right: 255px;
+    padding-left: 1200px;
+    margin-bottom: 40px;
+}
+
+.heading {
+    background-size: contain;
+    background-image: url("../images/banner/banner3.png");
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 1080px;
+    width: 1920px;
+}
+
+.btn-contact {
+    border-radius: 5px;
+    background: #fff;
+    border: 0px;
+    padding: 20px 20px;
+    margin-left: 1517px;
+    margin-bottom: 200px;
+    color: #005fac;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-right: 255px;
+}
+
+main {
+    max-width: 1140px;
+    margin: 0px auto;
+    justify-content: space-around;
+}
+.second-head {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 380px;
+    margin-left: 130px;
+    margin-bottom: 0px;
+}
+
+.second-head-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 130px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.second-head-list {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.middle {
+    display: flex;
+    gap: 60px;
+}
+
+.head-para-list li {
+    margin-bottom: 8px;
+}
+
+.image {
+    margin-top: 150px;
+}
